@@ -1,0 +1,5 @@
+pymeshlab
+vtk >= 9.1.0
+numpy
+scipy
+trimesh
